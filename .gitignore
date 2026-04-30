@@ -32,3 +32,23 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Backup files
+*.bkp
+
+# Local Android SDK path (machine-specific)
+local.properties
+
+# Build outputs
+build/
+app/build/
+
+# Gradle cache
+.gradle/
+
+# IDE files
+.idea/
+*.iml
+
+# macOS
+.DS_Store
